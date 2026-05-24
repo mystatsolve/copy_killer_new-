@@ -62,6 +62,20 @@ Or ask the model to humanize text directly in either tool:
 Please humanize this text: [your text]
 ```
 
+### 한국어 사용법 (Korean usage)
+
+논문·보고서 등 문어체 글을 humanize할 때는 아래 프롬프트를 사용합니다.
+
+```
+humanizer에 기반하여 재작성, 분량은 유지하거나 더 많이 가능하고 문어체로 작성해줘
+
+[여기에 글을 붙여넣기]
+```
+
+- **기반(humanizer)**: SKILL.md의 패턴 점검 → 초안 → "AI 티" 감사 → 최종본 절차를 그대로 적용합니다.
+- **분량**: 원문 길이를 유지하거나 더 늘려도 됩니다.
+- **문어체**: 구어체로 흘러가지 않도록 문장 종결과 어휘를 문어체로 유지합니다.
+
 ### Voice Calibration
 
 To match your personal writing style, provide a sample of your own writing:

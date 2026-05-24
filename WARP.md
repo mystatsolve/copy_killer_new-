@@ -1,5 +1,5 @@
 # WARP.md
-
+AI가 작성한 문장은 지나치게 일정한 어조와 반복적 어휘·정형화된 문장 구조가 높은 수준으로 유지되고 있어, 논점의 변화, 강조, 논리적 전개 등 자연스러운 글의 흐름이 잘 드러나지 않습니다.
 This file provides guidance to WARP (warp.dev) when working with code in this repository.
 
 ## What this repo is
